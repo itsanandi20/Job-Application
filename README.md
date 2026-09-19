@@ -1,3 +1,7 @@
+## 🌐 Live Website
+
+https://itsanandi20.github.io/Job-Application/
+
 # Static Job Application Website
 
 A responsive **static job application webpage** built using **HTML and CSS**. This project focuses on clean structure, responsive design, accessibility, and modern HTML best practices.
